@@ -29,6 +29,7 @@
 .friend_content .friend_username {
   display: block;
   margin-bottom: 5px;
+  font-size: 14px;
 }
 
 .friend_content .friend_bottom-text {
@@ -37,7 +38,7 @@
 }
 
 .friend_content .friend_Status {
-  font-size: 12px;
+  font-size: 14px;
   opacity: 0.6;
 }
 

@@ -1,14 +1,15 @@
 .More .More__btn-list,
 .More__suggestions-list {
-  margin-top: 30px;
+  margin-top: 20px;
   display: flex;
   align-items: center;
-  margin-left: 10px;
+  justify-content: space-between;
+  height: 100px;
+  width: 340px;
 }
 
 .More__btn-list .More__btn,
 .More .suggestion {
-  margin-right: 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -16,8 +17,10 @@
 }
 
 .More__btn .More__btn-title {
-  font-size: 14px;
+  font-size: 13px;
   margin-top: 15px;
+  font-weight: 600;
+  padding: 10px;
 }
 
 .More .More__suggestions {
@@ -31,8 +34,10 @@
 }
 
 .suggestion .suggstion-title {
-  font-size: 12px;
+  font-size: 14px;
   margin-top: 15px;
+  opacity: 0.6;
+  font-weight: 600;
 }
 
 .suggestion .suggestion-icon {
