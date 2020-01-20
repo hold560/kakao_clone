@@ -6,6 +6,7 @@
   justify-content: space-between;
   height: 100px;
   width: 340px;
+  padding: 10px;
 }
 
 .More__btn-list .More__btn,
